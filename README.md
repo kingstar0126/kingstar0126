@@ -6,10 +6,18 @@ skype😘: live:.cid.87702686344107cf
 gmail 📨: popstar0126@gmail.com 
 <br />
 
-💡 &nbsp;A [pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)\
-🌱 &nbsp;Learning something new about 💻 every day.\
-🏹 &nbsp;In my free time, I 🎧, 🏃 or 📖\
-📪 &nbsp;Feel free to reach out to me if you have any questions, or a meme worth sharing.\
+### My Working Style
+
+<p align="left">
+⚡Full-time developer (40+ hours per week)<br />
+⚡Working in your time zone & Good communication.<br />
+⚡Update the result daily, every week<br />
+⚡Keep on-Time, on-Budget<br />
+⚡100% ongoing satisfaction with your project.<br />
+⚡Provide the result with high quality<br />
+⚡Lifetime Free Bug-Fix support after completion<br />
+⚡Agile Scrum workflow!<br />
+</p>
 
 <br />
 
