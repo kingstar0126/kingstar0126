@@ -186,3 +186,5 @@ gmail 📨: popstar0126@gmail.com
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kingstar0126&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
 </p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
