@@ -1,4 +1,4 @@
-## Hi, I'm Full stack developer 👋
+## Hi, I'm OpenAI expert and Full stack developer 👋
 
 ![](https://komarev.com/ghpvc/?username=kingstar0126&color=green)
 
@@ -176,11 +176,6 @@ gmail 📨: popstar0126@gmail.com
 
 ### ⚙️ &nbsp;Some Stats
 
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kingstar0126&show_icons=true&theme=radical&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kingstar0126&theme=radical&hide_border=true" />
-</p>
-<br>
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
 </p>
