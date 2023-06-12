@@ -176,9 +176,6 @@ gmail 📨: popstar0982@gmail.com
 
 ### ⚙️ &nbsp;Some Stats
 
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
-</p>
 <br />
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kingstar0126&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
