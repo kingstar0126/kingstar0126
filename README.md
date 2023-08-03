@@ -1,4 +1,4 @@
-## Hi, I'm OpenAI expert and Full stack developer 👋
+## Hi, I'm a Senior Front-End Developer 👋
 
 ![](https://komarev.com/ghpvc/?username=kingstar0126&color=green)
 
