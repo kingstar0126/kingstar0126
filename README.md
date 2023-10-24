@@ -3,8 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=kingstar0126&color=green)
 
 This is my address: <br/>
-skype😘: live:.cid.cdb9a89690937cbf
-<br />
 gmail 📨: popstar0982@gmail.com 
 <br />
 
