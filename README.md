@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=kingstar0126&color=green)
 
-This is my address: <br/>
-gmail 📨: popstar0982@gmail.com 
 <br />
 
 ### My Working Style
