@@ -4,6 +4,9 @@
 
 <br />
 
+* 📧: popstar0982@gmail.com
+* 📞: +1 4078094714
+
 ### My Working Style
 
 <p align="left">
